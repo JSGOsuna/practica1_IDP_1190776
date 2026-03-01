@@ -6,4 +6,4 @@ def test_add():
 
 def test_subtract():
     calc = Calculadora()
-    assert calc.subtract(5, 2) == 5
+    assert calc.subtract(5, 2) == 3
