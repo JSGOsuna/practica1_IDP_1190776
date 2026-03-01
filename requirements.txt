@@ -1,3 +1,4 @@
+# Requerimientos para el proyecto de pruebas unitarias
 pytest
 pytest-cov
 pytest-html
